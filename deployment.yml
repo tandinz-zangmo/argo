@@ -2,8 +2,6 @@
  kind: Pod
  metadata:
   name: dev-pod
-  labels:
-   env: dev
  spec:
   containers:
   - name: nginx
